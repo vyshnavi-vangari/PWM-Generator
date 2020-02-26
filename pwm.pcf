@@ -1,0 +1,6 @@
+set_io clk R9
+set_io A A5
+set_io duty_cyc[0] D6
+set_io duty_cyc[1] C6
+set_io duty_cyc[2] C7
+set_io duty_cyc[3] D7
