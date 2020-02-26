@@ -11,7 +11,7 @@
 
 int main ()
 {
-
+  
   wiringPiSetup () ;
   pinMode (p1, OUTPUT) ;
   pinMode (p2, OUTPUT) ;
